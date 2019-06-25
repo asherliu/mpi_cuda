@@ -19,7 +19,7 @@ Compile
 -----
 Run
 --------
-- make run
+- make test
 
 ------
 Contact
