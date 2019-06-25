@@ -1,4 +1,4 @@
-exe=mpi_test.bin
+exe=mpi_cuda_test.bin
 
 cucc= "$(shell which nvcc)"
 cc= "$(shell which mpicxx)"
